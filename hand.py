@@ -4,7 +4,7 @@ class Hand(object):
     def __init__(self, n):
         '''
         Initialize a Hand.
-
+        just testing out git by adding a line here
         n: integer, the size of the hand.
         '''
         assert type(n) == int
